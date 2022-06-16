@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "62ab53eb378c3366e9cf0d44",
+    "index": 0,
+    "name": "Carlton",
+    "state": " Montana, 5921",
+    "latitude": -18.591015,
+    "longitude": 177.648979
+  },
+  {
+    "_id": "62ab53eba65ec9e0cb04afd1",
+    "index": 1,
+    "name": "Neahkahnie",
+    "state": " Louisiana, 5325",
+    "latitude": 70.306833,
+    "longitude": -104.240082
+  },
+  {
+    "_id": "62ab53eb64ccaa318694bcb9",
+    "index": 2,
+    "name": "Denio",
+    "state": " District Of Columbia, 403",
+    "latitude": 25.355977,
+    "longitude": 39.278929
+  },
+  {
+    "_id": "62ab53eba7bf239924b38c92",
+    "index": 3,
+    "name": "Kieler",
+    "state": " Georgia, 5385",
+    "latitude": -28.955295,
+    "longitude": 73.610544
+  },
+  {
+    "_id": "62ab53ebd21d54f55988e5cb",
+    "index": 4,
+    "name": "Ezel",
+    "state": " South Dakota, 3746",
+    "latitude": -35.63395,
+    "longitude": 87.37207
+  },
+  {
+    "_id": "62ab53ebdd0d0a20227fd3ef",
+    "index": 5,
+    "name": "Bynum",
+    "state": " Hawaii, 197",
+    "latitude": 20.394802,
+    "longitude": -65.902642
+  },
+  {
+    "_id": "62ab53ebe206d7565442f833",
+    "index": 6,
+    "name": "Allensworth",
+    "state": " West Virginia, 3308",
+    "latitude": 16.139701,
+    "longitude": 37.608731
+  },
+  {
+    "_id": "62ab53eba091c57fca85c741",
+    "index": 7,
+    "name": "Crown",
+    "state": " Maine, 9767",
+    "latitude": -0.067104,
+    "longitude": 114.457214
+  },
+  {
+    "_id": "62ab53eb82942694624cd615",
+    "index": 8,
+    "name": "Somerset",
+    "state": " Mississippi, 539",
+    "latitude": -83.824488,
+    "longitude": -72.573712
+  },
+  {
+    "_id": "62ab53eb0c7b38f8293492a4",
+    "index": 9,
+    "name": "Drytown",
+    "state": " Maryland, 1933",
+    "latitude": 58.672324,
+    "longitude": -63.516248
+  }
+]
