@@ -1,12 +1,6 @@
 import { defineStore } from "pinia";
-type City = {
-  _id: string;
-  index: number;
-  name: string;
-  state: string;
-  latitude: number;
-  longitude: number;
-};
+import type { City } from "../types";
+
 export const useCityStore = defineStore("CityStore", {
   state: () => ({
     cities: [] as City[],

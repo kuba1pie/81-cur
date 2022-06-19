@@ -4,8 +4,3 @@
     <CityResult />
   </section>
 </template>
-<script setup lang="ts">
-import { useCityStore } from "@/stores/CityStore";
-
-useCityStore();
-</script>

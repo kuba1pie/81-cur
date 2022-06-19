@@ -1,12 +1,5 @@
-<script setup lang="ts">
-import { useCityStore } from "@/stores/CityStore";
-
-useCityStore();
-</script>
-
 <template>
   <TheHeader />
-
   <main>
     <router-view> </router-view>
   </main>
