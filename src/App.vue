@@ -1,7 +1,4 @@
 <script setup lang="ts">
-import TheHeader from "./components/TheHeader.vue";
-import TheFooter from "./components/TheFooter.vue";
-
 import { useCityStore } from "@/stores/CityStore";
 
 useCityStore();
