@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Json city list</h1>
+    <h1>Cities Data Table</h1>
   </header>
 </template>
 <style lang="sass">

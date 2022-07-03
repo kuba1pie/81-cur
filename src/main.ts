@@ -11,7 +11,10 @@ import "quasar/src/css/index.sass";
 
 const router = createRouter({
   history: createWebHistory(),
-  routes: [{ path: "/", name: "Home", component: TheHomeVue }],
+  routes: [
+    { path: "/", name: "Home", component: TheHomeVue },
+    { path: "/:pathMatch(.*)*", component: TheHomeVue },
+  ],
 });
 
 createApp(App)

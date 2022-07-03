@@ -13,6 +13,8 @@
   </div>
 </template>
 <script setup lang="ts">
+import { useCityStore } from "@/stores/CityStore";
+
 const store = useCityStore();
 const columns = [
   {
